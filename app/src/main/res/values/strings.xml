@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CustomListViewExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="titles">
+        <item>intention 1</item>
+        <item>intention 2 </item>
+        <item>intention 3</item>
+        <item>intention 4</item>
+        <item>intention 5</item>
+        <item>intention 6</item>
+        <item>intention 7</item>
+        <item>intention 8</item>
+        <item>intention 9</item>
+        <item>intention 10</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>prayer intention 1 goes here</item>
+        <item>prayer intention 2 goes here</item>
+        <item>prayer intention 3 goes here</item>
+        <item>prayer intention 4 goes here</item>
+        <item>prayer intention 5 goes here</item>
+        <item>prayer intention 6 goes here</item>
+        <item>prayer intention 7 goes here</item>
+        <item>prayer intention 8 goes here</item>
+        <item>prayer intention 9 goes here</item>
+        <item>prayer intention 10 goes here</item>
+    </string-array>
+
+</resources>
